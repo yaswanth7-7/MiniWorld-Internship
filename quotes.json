@@ -1,0 +1,34 @@
+{
+    "love": [
+        "{name}, you know you're in love when you can't fall asleep because reality is finally better than your dreams. - Dr. Seuss",
+        "{name}, the most important thing in life is to learn how to give out love, and to let it come in. - Morrie Schwartz",
+        "{name}, you don't love someone for their looks, or their clothes, or for their fancy car, but because they sing a song only you can hear. - Oscar Wilde",
+        "{name}, you've gotta dance like there's nobody watching, love like you'll never be hurt, sing like there's nobody listening, and live like it's heaven on earth. - William W. Purkey",
+        "{name}, you know it's love when all you want is that person to be happy, even if you're not part of their happiness. - Julia Roberts",
+        "love is uncondional"
+    ],
+    "motivation": [
+        "{name}, the only person you are destined to become is the person you decide to be. - Ralph Waldo Emerson",
+        "{name}, don't let yesterday take up too much of today. - Will Rogers",
+        "{name}, you are never too old to set another goal or to dream a new dream. - C.S. Lewis",
+        "{name}, if you are working on something that you really care about, you don't have to be pushed. The vision pulls you. - Steve Jobs",
+        "{name}, people who are crazy enough to think they can change the world, are the ones who do. - Rob Siltanen"
+    ],
+    "success": [
+        "{name}, success is not final; failure is not fatal: It is the courage to continue that counts. - Winston Churchill",
+        "{name}, the way to get started is to quit talking and begin doing. - Walt Disney",
+        "{name}, the successful warrior is the average man, with laser-like focus. - Bruce Lee",
+        "{name}, success usually comes to those who are too busy to be looking for it. - Henry David Thoreau",
+        "{name}, don't be afraid to give up the good to go for the great. - John D. Rockefeller",
+        "The harder you work for something, {name}, the greater you'll feel when you achieve it."
+    ],
+    "life": [
+        "In the end, it's not the years in your life that count. It's the life in your years, {name}.",
+        "Life is 10% what happens to us and 90% how we react to it.",
+        "Life is really simple, {name}, but we insist on making it complicated.",
+        "Life is either a daring adventure or nothing at all, {name}.",
+        "{name}, life is about making an impact, not making an income. - Kevin Kruse",
+        "{name}, whatever the mind of man can conceive and believe, it can achieve. - Napoleon Hill",
+        "{name}, strive not to be a success, but rather to be of value. - Albert Einstein"
+    ]
+}
